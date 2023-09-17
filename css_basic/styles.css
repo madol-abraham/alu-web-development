@@ -1,0 +1,27 @@
+body
+{
+    display: flex;
+    flex-direction: column;
+    background-color: lightgreen;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+main
+{
+    display:flex
+    flex-direction: row;
+    flex: auto;
+}
+
+aside
+{
+    flex: 1;
+    overflow-y: auto;
+}
+
+table,th,td
+{
+    border: 1px solid black;
+    width: 100%;
+}
