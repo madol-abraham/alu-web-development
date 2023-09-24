@@ -1,0 +1,160 @@
+ibody {
+    font-style: normal;
+    font-family: "Source Sans Pro";
+    margin: 0;
+    padding: 0;
+  
+  }
+  
+  .main{
+    width: 100%;
+    background: url(imagefig.jpg);
+    background-position: centre;
+    background-size: cover;
+    width: 1440px;
+    height: 1093px;
+    height: 200vh;
+  }
+  
+  .part2{
+    background-color: #C271FF;
+    width: 1440px;
+    height: 392px;
+  }
+  .part3 {
+    background-color: #FFFFFF;
+    width:1440px;
+  }
+  .part4{
+    background-color: #071629;
+    width: 1440px;
+    height: 900px;
+    color: #FFFFFF;
+  }
+  
+  .part6{
+    background-color: #071629;
+    width: 1440px;
+    height: 249px;
+  }
+  .school{
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 70px;
+    padding-bottom: 20px;
+  }
+  button{
+    height: 36px;
+    background-color: #C271FF;
+    color: white;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 18px;
+    text-align: center;
+  }
+  .main_part{
+    text-align: center;
+    color: #FFFFFF;
+  }
+  span{
+    color: #C271FF;
+  }
+   
+    .ff{
+      color: white;
+  font-size: 12px;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  word-wrap: break-word;
+  opacity: 0.35;
+  text-align: center;
+  line-height: 15px;
+  margin-top: 110px;
+    }
+  .ico{
+    color: white;
+    width: 130px ;
+    height: 30px;
+    padding-top: 60px;
+    padding-left: 1100px;
+  }
+  
+  .ico a{
+    text-decoration: none;
+    color: #fff;
+      }
+  .container{
+  display: flex;
+  justify-content: space-between;
+  color: #FFFFFF;
+  
+  }
+  .images{
+    flex: 1;
+    padding-top: 300px;
+    border-radius: 50%;
+  
+   
+   }
+  
+  .major {
+    display: flex;
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+  .minor {
+    display: flex;
+    flex: 50%;
+    flex-direction: column;
+    width: 50%;
+    padding: 5%;
+  }
+  .btn{
+    height: 36px;
+    background-color: #C271FF;
+    color: white;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 18px;
+    text-align: center;
+  }
+  .faq{
+    margin-top: 120px;
+    text-align: center;
+    font-size: 40px;
+  }
+  
+  .populart{
+    text-align: center;
+  }
+  
+  .bbt{
+    text-align: center;
+    margin-top: 150px;
+    margin-left: 600px;
+  }
+  .thirdpic{
+    background-color: #071629;
+  }
+  
+  .loi{
+    background-color: #071629;
+  }
+  
+  
+  
+  .menu {
+    text-align: right;
+  }
+  
+  .menu ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .menu ul li {
+    display: inline;
+    margin-right: 20px; 
+  }
