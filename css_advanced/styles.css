@@ -1,4 +1,4 @@
-ibody {
+body {
     font-style: normal;
     font-family: "Source Sans Pro";
     margin: 0;
@@ -156,5 +156,5 @@ ibody {
   
   .menu ul li {
     display: inline;
-    margin-right: 20px; 
+    margin-right:20px;
   }
